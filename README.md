@@ -158,14 +158,24 @@ lung-tumor-segmentation/
 
 ---
 
+
 ## How to Run
 
-1. Open notebooks:
+1. Install dependencies:
 
-   * `msd.ipynb`
-   * `lidc.ipynb`
-2. Run all cells sequentially
-3. GPU is recommended
+```
+pip install -r requirements.txt
+```
+
+2. Open the notebooks:
+
+* `msd.ipynb`
+* `lidc.ipynb`
+
+3. Run all cells sequentially
+
+4. GPU is recommended for faster training
+
 
 ---
 
