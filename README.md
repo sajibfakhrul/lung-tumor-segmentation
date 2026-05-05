@@ -130,14 +130,15 @@ The goal is to evaluate segmentation performance and analyze generalization acro
 ```
 lung-tumor-segmentation/
 ├── notebooks/
-│   ├── msd.ipynb
-│   ├── lidc.ipynb
+│ ├── msd.ipynb
+│ ├── lidc.ipynb
 ├── results/
-│   ├── msd_preprocessed_slice_167.png
-│   ├── lidc_preprocessed_example.png
-│   ├── top5_diffusion_predictions_lidc.png
-│   ├── top5_diffusion_predictions_with_dice.png
+│ ├── msd_preprocessed_slice_167.png
+│ ├── lidc_preprocessed_example.png
+│ ├── top5_diffusion_predictions_lidc.png
+│ ├── top5_diffusion_predictions_with_dice.png
 ├── README.md
+├── requirements.txt
 ```
 
 ---
