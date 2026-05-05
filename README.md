@@ -70,7 +70,7 @@ The goal is to evaluate segmentation performance and analyze generalization acro
 
 * Armato et al., *The Lung Image Database Consortium (LIDC-IDRI)*, Medical Physics, 2011
 * https://doi.org/10.1118/1.3528204
-* https://www.kaggle.com/datasets/zhangweiled/lidcidri
+* Download: https://www.kaggle.com/datasets/zhangweiled/lidcidri
 
 ---
 
